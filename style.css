@@ -1,0 +1,54 @@
+h1 {
+    background-color: brown;
+    color: white;
+}
+
+main {
+width: 1200px;
+margin: 0 auto;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #888;
+    border-collapse: collapse;
+}
+
+td, th {
+padding: 10px;
+}
+
+.flag {
+    height: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.gold {
+    background-color: goldenrod;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.bronze {
+    background-color: #cd7f32;
+}
+
+body {
+    background-image: url(img/peking.png);
+}
